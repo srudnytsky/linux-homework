@@ -16,5 +16,5 @@ cd /etc
 # Moving back to previous directory
 cd -
 
-# 7. Переглядаємо документацію команди mkdir, яку використали
+# mkdir documentation viewing
 man mkdir
