@@ -1,0 +1,4 @@
+1. > <filename>.<extension>
+2. echo "some text or empty" > <file>.<extension>
+3. nano <filename>.<extension>
+
