@@ -67,13 +67,13 @@ Untitled design.png
 
 ### File creation without touch: 
 
-1. \> <\filename\>.<\extension\>
-2. echo "some text or empty" > <\file\>.<\extension\>
-3. nano <\filename\>.<\extension\>
+1. `> filename.extension`
+2. `echo "some text" > file.extension`
+3. `nano filename.extension`
 
 ### Displaying file content:
 
-cat <\filename\>.<\extension\>
+`cat filename.extension`
 
 ### Go to home directory by absolute path: 
 
