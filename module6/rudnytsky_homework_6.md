@@ -73,5 +73,3 @@ Check:
 * Available disk space
 * `tar` command availability
 
-```
-```
